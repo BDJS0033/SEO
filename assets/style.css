@@ -86,6 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+}
 
 /* Group sidebar syntax together as they have the same elements */
 
@@ -94,17 +95,28 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    position: relative;
 }
 
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
-.benefit-lead img,
-.benefit-brand img,
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
 .benefit-cost img {
     display: block;
     margin: 10px auto;
