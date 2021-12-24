@@ -6,7 +6,7 @@ This project required Refactoring of a code that was unorganized and unreadable 
 
 ## Noticeable Issues:
 
-1. Overuse of <div> element. Some did not have a closing tag.
+1. Overuse of <div>> element. Some did not have a closing tag.
 
 2. The information was not indented and spaced out in a comprehensive manner, which made it difficult to follow.
 
