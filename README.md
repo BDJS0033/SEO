@@ -52,4 +52,6 @@ All changes implemented without affecting the function of the webpage:
 
 ## Git Hub 
 
-Please find the URL for the completed challeng: url[https://bdjs0033.github.io/SEO/]
+Please find the URL for the completed challenge: url[https://bdjs0033.github.io/SEO/]
+
+Please find the URL for the repository: url [https://github.com/BDJS0033/SEO.git]
