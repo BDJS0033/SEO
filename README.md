@@ -13,35 +13,43 @@ Horiseon asks that their existing webpage neded modification to meet accessibili
 
 Elements prior to organization did not act in a cohesive manner. Alt attributes were also added to meet accessibility standards.
 
+Before:
 
+![Unrefractored](https://user-images.githubusercontent.com/82056351/147395303-bcc4e487-5ae1-4a22-8be9-3d41693cba77.jpg)
 
-2. The information was not indented and spaced out in a comprehensive manner, which made it difficult to follow.
+After:
 
-3. Needed to space out elements used for the sidebar content.
+![Refractored with Alt Attributes](https://user-images.githubusercontent.com/82056351/147395377-7b1066a5-3444-4730-824a-f22abeda9245.jpg)
 
-4. The CSS Style Sheet could have grouped certain syntax together as they provided the same effects for specific elements, such as the borders, images, style, and size of the font.
+## Title Missing
 
-5. Images were missing the <alt> tag which is an accessibility standard as it provides a brief descriptor of the image.
+Webpage Title was missing which enables the user to see the name of the site on their browser tab.
 
-6. Missing <nav> element which provides the ability click on a link to jump to a specific location on webpage.
+Before:
 
-## Resolution:
+![Title Missing](https://user-images.githubusercontent.com/82056351/147395398-7d1a957c-4dbd-4329-a42d-04b19dc879fe.jpg)
 
-1. Removed unnecessary <div> elements and closed open tags.
+After:
 
-2. Using <article> element worked to space out each section of information. Used article as each section on the webpage contained different information.
+![Title Amended](https://user-images.githubusercontent.com/82056351/147395401-3b472f9a-6f8b-40d0-b5ed-62b20ce9d027.jpg)
 
-3. Used <aside> element to define the content on the sidebar of the webpage as it is separate from the rest of the content on the webpage.
+## Additional Changes
+
+All changes implemented without affecting the function of the webpage:
+
+1. Removed unnecessary elements.
+
+2. Spaced out each section of information using article element as each section on the webpage contained different information.
+
+3. Used aside element to define the content on the sidebar of the webpage as it is separate from the rest of the content on the webpage.
 
 4. Grouped all similar syntax within the CSS Style Sheet in order to minimize coding.
 
-5. Add the <alt> to abide by accessibility standards.
+5. Added <nav> element as this will enable the ability for user to jump from one section to another on a webpage.
 
-6. Added <nav> element as this will enable the ability for user to jump from one section to another on a webpage.
-
-7. Added comments to indicate what was done.
+6. Added comments to indicate what was done.
 
 
 ## Git Hub 
 
-Please find the URL for the completed challeng: 
+Please find the URL for the completed challeng: url[https://bdjs0033.github.io/SEO/]
