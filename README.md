@@ -2,7 +2,14 @@
 
 ## Project Horieseon SEO
 
+## Description
+
 This project required Refactoring of a code that was unorganized and unreadable to the human eye. The code itself did work, but it was missing elements to it that organized and limited the amount of coding needed.
+
+```md
+    ![alt text](assets/images/Horiseon.jpg)
+    ```
+
 
 ## Noticeable Issues:
 
