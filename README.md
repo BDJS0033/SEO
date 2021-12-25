@@ -4,14 +4,16 @@
 
 ## Description
 
-This project required Refactoring of a code that was unorganized and unreadable. Though the code itself worked, mo
+Horiseon asks that their existing webpage neded modification to meet accessibility standards and become easier to search all while ensuring their website maintains functionality.
 
 ![Horiseon](https://user-images.githubusercontent.com/82056351/147393956-eaa22c23-713b-4384-8f71-79f7d13d1800.jpg)
 
 
-## Noticeable Issues:
+## Semantic Elements and Alt Attributes
 
-1. Overuse of <div> element. Some did not have a closing tag.
+Elements prior to organization did not act in a cohesive manner. Alt attributes were also added to meet accessibility standards.
+
+
 
 2. The information was not indented and spaced out in a comprehensive manner, which made it difficult to follow.
 
