@@ -6,7 +6,8 @@
 
 This project required Refactoring of a code that was unorganized and unreadable to the human eye. The code itself did work, but it was missing elements to it that organized and limited the amount of coding needed.
 
-(https://github.com/BDJS0033/SEO/blob/7f50095e167a3a260ef9a2071e068f06b98534a0/assets/images/Horiseon.jpg)
+![Horiseon](https://user-images.githubusercontent.com/82056351/147393956-eaa22c23-713b-4384-8f71-79f7d13d1800.jpg)
+
 
 ## Noticeable Issues:
 
